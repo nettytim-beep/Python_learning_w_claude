@@ -1,3 +1,3 @@
 # Git practice notes
 
-Learning the edit -> stage -> commit loop. Branch A was here.
+Learning the edit -> stage -> commit loop. Branch A and Branch B were both here.

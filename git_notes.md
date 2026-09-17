@@ -1,4 +1,4 @@
-# Git practice notes
+# Git practice notes (edited on pratice-branch)
 
 Learning the edit -> stage -> commit loop. Branch A and Branch B were both here.
 
